@@ -10,6 +10,7 @@ from spacy_stanza import StanzaLanguage
 import unidecode
 import random
 
+#stanza.download ('es')
 
 NLPProc=None
 JSONOBJ=None
